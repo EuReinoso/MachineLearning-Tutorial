@@ -9,3 +9,7 @@ Este repositório é dedicado a dar exemplos práticos, passo a passo de como é
 Os tutoriais estão separados em pastas `Exemplos`, que contém um arquivo `.ipynb` e os datasets que serão usados. Comece no `Exemplo1`, pratique, e quando se sentir confortável pode ir vendo os outros exemplos na ordem. 
 
 (Os exemplos não tem uma ordem, mas é interessante estudar em sequência pois tem diferentes abordagens.)
+
+### Pré-Requisitos.
+
+Para estudar este repositório é necessário conhecimento em `Python`, e das bibliotecas `Pandas` e `Numpy`.
