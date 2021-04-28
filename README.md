@@ -10,6 +10,12 @@ Os tutoriais estão separados em pastas `Exemplos`, que contém um arquivo `.ipy
 
 (Os exemplos não tem uma ordem, mas é interessante estudar em sequência pois tem diferentes abordagens.)
 
+## Exemplos
+
+- [`Exemplo1` - Classificação - Sobreviventes do Titanic](https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/Exemplo1/Titanic_ML.ipynb)
+- [`Exemplo2` - Classificação - Doenças na Soja](https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/Exemplo2/Soybean_ML.ipynb)
+- [`Exemplo3` - Regressão - Preços de Casas](https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/Exemplo3/House_Prices.ipynb)
+
 ### Pré-Requisitos.
 
 Para estudar este repositório é necessário conhecimento em `Python`, e das bibliotecas `Pandas` e `Numpy`.
