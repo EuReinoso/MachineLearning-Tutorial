@@ -15,6 +15,7 @@ Os tutoriais estão separados em pastas `Exemplos`, que contém um arquivo `.ipy
 - [`Exemplo1` - Classificação - Sobreviventes do Titanic](https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/Exemplo1/Titanic_ML.ipynb)
 - [`Exemplo2` - Classificação - Doenças na Soja](https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/Exemplo2/Soybean_ML.ipynb)
 - [`Exemplo3` - Regressão - Preços de Casas](https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/Exemplo3/House_Prices.ipynb)
+- [`Exemplo4` - Classificação - Clientes fiéis de Banco](https://github.com/EuReinoso/MachineLearning-Tutorial/blob/master/Exemplo4/BankChurners.ipynb)
 
 ### Pré-Requisitos.
 
